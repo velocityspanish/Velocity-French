@@ -21749,7 +21749,37 @@
       "french": "Relâche ta prise, doucement",
       "category": "Mindfulness",
       "generated_at": "2026-09-08T23:48:54.761175"
+    },
+    {
+      "english": "Thank you, I feel safer",
+      "french": "Merci, je me sens en sécurité",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:46:13.228774"
+    },
+    {
+      "english": "I’m grateful, your kindness stays",
+      "french": "Je suis reconnaissant, ta gentillesse reste",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:46:13.228785"
+    },
+    {
+      "english": "Thanks for listening, truly",
+      "french": "Merci d’avoir écouté, vraiment",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:46:13.228786"
+    },
+    {
+      "english": "I appreciate you, quietly",
+      "french": "Je t’apprécie, doucement",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:46:13.228788"
+    },
+    {
+      "english": "Grateful for your steady presence",
+      "french": "Reconnaissant(e) de ta présence",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:46:13.228789"
     }
   ],
-  "last_updated": "2026-09-08T23:48:54.761177"
+  "last_updated": "2026-09-09T05:46:13.228790"
 }
